@@ -1,0 +1,52 @@
+    
+    
+    
+    @media (min-width: 950px){ 
+      .git{
+        width: 90%;
+        height: auto;
+        display: grid;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: auto;
+
+      }
+       .git>div{
+         width: 47%;
+         height: 200px;
+         align-items: center;
+      } 
+      .GitHubAnalytics{
+        text-align: center;
+        margin-bottom: 70px;
+      }
+    
+      .gitimg{  
+        width:100%;
+          height: 200px;
+      }
+      }
+
+
+    
+      @media (max-width: 950px){ 
+        .git{
+          width: 90%;
+          height: auto;
+          margin: auto;
+        }
+        .git>div{
+          width: 100%;
+          height: 200px;
+          margin-bottom: 10px;
+        }
+        .gitimg{ 
+          width:100%;
+          height: 200px;     
+        }
+        .GitHubAnalytics{
+          text-align: center;
+        }
+        }
+    

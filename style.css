@@ -1,0 +1,38 @@
+
+
+
+@media (min-width: 768px){ 
+
+
+    .profile_pic{
+        border-radius: 50%; 
+        height: 220px; 
+        width:220px; 
+        margin-top: -15px; 
+        margin-bottom: 25px;
+    }
+}
+
+
+@media (max-width: 768px){ 
+
+    .profile_pic{
+        border-radius: 50%; 
+        height: 100px; 
+        width:100px; 
+        margin-top: -15px; 
+        margin-bottom: 10px;
+    }
+}
+
+
+@media (max-width: 768px){ 
+
+    .profile_pic{
+        border-radius: 50%; 
+        height: 100px; 
+        width:100px; 
+        margin-top: -15px; 
+        margin-bottom: 10px;
+    }
+}
