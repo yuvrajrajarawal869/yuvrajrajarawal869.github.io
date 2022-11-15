@@ -5,5 +5,5 @@ Demo link http://yuvrajrajarawal869.github.io
 
 
 <h3 align="left">Image</h3>
-<a href="" target="blank"><img src="https://github.com/yuvrajrajarawal869/yuvrajrajarawal869.github.io/blob/main/Screenshot%20(121).png?raw=true"/></a>
+<img src="https://github.com/yuvrajrajarawal869/yuvrajrajarawal869.github.io/blob/main/Screenshot%20(121).png?raw=true"/>
 
